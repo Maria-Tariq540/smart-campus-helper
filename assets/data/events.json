@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Annual Tech Symposium",
+        "date": "2026-03-15",
+        "description": "A showcase of innovative projects and tech talks.",
+        "location": "Main Auditorium"
+    },
+    {
+        "id": "2",
+        "title": "Career Fair 2026",
+        "date": "2026-04-10",
+        "description": "Meet top employers and explore internship opportunities.",
+        "location": "University Hall"
+    }
+]

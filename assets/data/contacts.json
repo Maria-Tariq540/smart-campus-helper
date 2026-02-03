@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Campus Security",
+        "number": "911",
+        "type": "Emergency"
+    },
+    {
+        "name": "Health Center",
+        "number": "555-0199",
+        "type": "Medical"
+    },
+    {
+        "name": "IT Helpdesk",
+        "number": "555-0100",
+        "type": "Support"
+    }
+]

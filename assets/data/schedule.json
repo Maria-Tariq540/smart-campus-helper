@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "subject": "Mobile App Development",
+    "time": "09:00 AM - 10:30 AM",
+    "location": "Lab 3, CS Block",
+    "day": "Monday",
+    "faculty": "Dr. Sarah Smith"
+  },
+  {
+    "id": "2",
+    "subject": "Data Mining",
+    "time": "11:00 AM - 12:30 PM",
+    "location": "Room 101, Science Hall",
+    "day": "Monday",
+    "faculty": "Prof. James Wilson"
+  },
+  {
+    "id": "3",
+    "subject": "Advanced Networking",
+    "time": "02:00 PM - 03:30 PM",
+    "location": "Networking Lab",
+    "day": "Tuesday",
+    "faculty": "Engr. Robert Brown"
+  }
+]

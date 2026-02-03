@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Dr. Sarah Smith",
+        "department": "Computer Science",
+        "designation": "Head of Department",
+        "email": "sarah.smith@university.edu",
+        "phone": "+1234567890",
+        "office": "B-201"
+    },
+    {
+        "id": "2",
+        "name": "Prof. James Wilson",
+        "department": "Computer Science",
+        "designation": "Senior Professor",
+        "email": "j.wilson@university.edu",
+        "phone": "+1234567891",
+        "office": "B-205"
+    }
+]
