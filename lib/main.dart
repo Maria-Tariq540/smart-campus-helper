@@ -7,14 +7,8 @@ import 'screens/splash_screen.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
-  // Note: Firebase.initializeApp() will need configuration files 
-  // (google-services.json / GoogleService-Info.plist) to work.
-  // I will wrap it in a try-catch for now to allow initial UI development.
-  try {
-    await Firebase.initializeApp();
-  } catch (e) {
-    debugPrint('Firebase not initialized yet: $e');
-  }
+  // Initialize Firebase
+  await Firebase.initializeApp();
   
   runApp(
     const ProviderScope(
